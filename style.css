@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.card{
+    border: 10px solid green;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+img{
+    margin-left: 50px;
+    width: 500px;
+}
+
+h1{
+    text-align: center;
+}
+
+
+h2{
+    text-align: center;
+}
+
+
+h3{
+    text-align: center;
+}
+
+
+h4{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
